@@ -1,12 +1,12 @@
-#Git HowTo для CentOS
+<h1>Git HowTo для CentOS</h1>
 
 Описание самых основных моментов для начала работы с git
 
-#Установка имени и электронной почты
-`git config --global user.name "Your Name"
-git config --global user.email "your_email@whatever.com"`
+<h2>Установка имени и электронной почты</h2>
+<p><code>git config --global user.name "Your Name"</code></p>
+<p><code>git config --global user.email "your_email@whatever.com"</code></p>
 
-Параметры установки окончаний строк
+#Параметры установки окончаний строк
 git config --global core.autocrlf input
 git config --global core.safecrlf true
 
