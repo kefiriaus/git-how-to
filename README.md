@@ -3,8 +3,8 @@
 Описание самых основных моментов для начала работы с git
 
 #Установка имени и электронной почты
-`git config --global user.name "Your Name"
-git config --global user.email "your_email@whatever.com"`
+`git config --global user.name "Your Name"`
+`git config --global user.email "your_email@whatever.com"`
 
 Параметры установки окончаний строк
 git config --global core.autocrlf input
